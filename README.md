@@ -1,2 +1,2 @@
 # Login-HTML-CSS
-IF you like this file so give one star
+If you like this file so give one star
